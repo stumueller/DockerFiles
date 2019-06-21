@@ -1,4 +1,5 @@
 FROM centos:latest
+
 LABEL base.os="centos7"
 LABEL maintainer="StuMueller <stumueller@gmail.com>"
 

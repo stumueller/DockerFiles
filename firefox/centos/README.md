@@ -1,4 +1,4 @@
-Image built on Ubuntu:latest
+Image built on centos:latest
 
 container create using following command:
 docker run -d --name="firefox" -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix stumueller/firefox
